@@ -19,3 +19,5 @@ Multiple packages are imported in the scripts. Here is a list of packages that y
 - matplotlib
 - scipy
 - IPython
+
+For usage: open the jupyternotebook you want to use; configure the parameters (after the function definition section) if desired; run the first cell -> the following cells are not necessary and create plots and animations (if executed)
